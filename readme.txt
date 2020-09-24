@@ -1,0 +1,1 @@
+This little application runs in the system tray and shuts down Windows and switches of your PC after an adjustable period of user idleness, ie no mouse or keyboard activity. Running processes are queried as to whether they have any objections to system shutdown and are forcibly terminated if they don't object or do not respond to the session end notifications.
